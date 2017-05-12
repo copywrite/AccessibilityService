@@ -4,7 +4,7 @@
     android:description="@string/app_name"
     android:accessibilityEventTypes="typeWindowStateChanged|typeNotificationStateChanged|typeWindowContentChanged"
     android:accessibilityFeedbackType="feedbackAllMask"
-    android:packageNames="com.tencent.mm,com.taobao.taobao"
+    android:packageNames="com.copywrite"
     android:notificationTimeout="100"
     android:accessibilityFlags="flagDefault|flagIncludeNotImportantViews|flagRequestTouchExplorationMode|flagRequestEnhancedWebAccessibility|flagReportViewIds|flagRetrieveInteractiveWindows"
     android:canRetrieveWindowContent="true"/>
